@@ -2,9 +2,9 @@
 Base project to quickly start practicing TDD in Java
 
 ## 1. Dowload
-You can clone this project using Git
+Clone this project with Git:
 ```
-git clone https://github.com/paucls/java-gradle-kata-seed.git
+git clone https://github.com/tbouttaz/java-seed.git
 ```
 
 ## 2. Import in your IDE
