@@ -1,5 +1,5 @@
 # java-seed
-Seed project to quickly start practicing TDD in Java
+Base project to quickly start practicing TDD in Java
 
 ## 1. Dowload
 You can clone this project using Git
