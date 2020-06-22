@@ -1,4 +1,4 @@
-# java-seed
+# Java Seed
 Base project to quickly start practicing TDD in Java
 
 ## 1. Dowload
